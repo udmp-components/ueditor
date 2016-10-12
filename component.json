@@ -2,6 +2,6 @@
     "name": "ueditor",
     "main": "ueditor.all.min",
     "repos": "https://github.com/fex-team/ueditor.git",
-    "version": "v1.3",
+    "version": "v1.4.3",
     "description": "ueditor resp"
 }
